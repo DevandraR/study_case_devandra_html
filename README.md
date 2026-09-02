@@ -8,7 +8,12 @@ Landing page interaktif dan modern yang menyajikan eksplorasi komprehensif menge
 
 ---
 
-## 🚀 Implementasi Front-End
+## 🚀 Implementasi & Konsep Desain
+
+### 🎨 Konsep & Pendekatan Desain
+- **Swiss Editorial & Tech Minimalist:** Mengedepankan hierarki tipografi yang kuat, tata letak asimetris terstruktur (*Bento Grid*), serta kontras tinggi agar data teknis mudah dipindai (*scannable*) dan nyaman dibaca.
+- **Enterprise Dark Palette:** Menggunakan kombinasi warna gelap bertingkat (*Deep Obsidian* `#080A10` & *Slate* `#0E121B`) yang elegan, dipadukan dengan aksen fungsional *Emerald Green* (indikator & efisiensi) serta *Cyan* (telemetri data AI).
+- **Living Interface & Tactile Interactivity:** Mengutamakan pengalaman pengguna yang hidup melalui simulator copilot real-time, visualisasi audio dinamis, dan kalkulator interaktif dibanding sekadar elemen visual statis.
 
 ### 1. HTML5 (`index.html`)
 - **Struktur Semantik & Aksesibel:** Menggunakan elemen semantik baku (`<header>`, `<nav>`, `<section>`, `<article>`, `<footer>`) dengan hierarki heading tunggal `<h1>` yang jelas untuk kebutuhan SEO dan aksesibilitas.
